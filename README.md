@@ -5,11 +5,11 @@
 
 <table>
   <tr>
-    <td width="30%" valign="top">
-      <img width="100%" alt="side" src="assets/side.jpg" />
+    <td valign="top">
+      <img width="400" alt="side" src="assets/side.jpg" />
     </td>
-    <td width="70%" valign="top">
-      <img width="100%" alt="metrics" src="https://raw.githubusercontent.com/hidengit/hidengit/main/metrics.classic.svg" />
+    <td valign="top">
+      <img width="400" alt="metrics" src="https://raw.githubusercontent.com/hidengit/hidengit/main/metrics.classic.svg" />
     </td>
   </tr>
 </table>
