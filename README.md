@@ -13,3 +13,5 @@
     </td>
   </tr>
 </table>
+
+<img width="100%" alt="contributions" src="https://ghchart.rshah.org/hidengit" />
