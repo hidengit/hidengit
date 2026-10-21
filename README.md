@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="assets/banner.png" />
+<img width="100%" alt="banner" src="assets/banner.jpg" />
 
 <h1 align="center">hiden</h1>
 <h3 align="center">Etudiant · IA / Data</h3>
@@ -24,6 +24,8 @@
     </td>
     <td width="50%" valign="top">
       <img width="100%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidengit&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+      <br>
+      <img width="100%" alt="metrics" src="https://raw.githubusercontent.com/hidengit/hidengit/main/metrics.classic.svg" />
     </td>
   </tr>
 </table>
